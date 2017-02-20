@@ -3,13 +3,12 @@
 **TODO: Add description**
 Generate a identicon from a given name.
 
-## Installation
+## How to generate an identicon
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `identicon` to your list of dependencies in `mix.exs`:
+From iex  `mix.exs`:
 
 ```elixir
-Identicon.main("example")
+iex> Identicon.main("example")
 ```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
