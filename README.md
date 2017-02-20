@@ -8,7 +8,8 @@ Generate a identicon from a given name.
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `identicon` to your list of dependencies in `mix.exs`:
 
-```Identicon.main("example")
+```elixir
+Identicon.main("example")
 ```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
