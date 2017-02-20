@@ -4,7 +4,7 @@ The example from the [Udemy course](https://www.udemy.com/the-complete-elixir-an
 
 ## How to generate an identicon
 
-From iex  `mix.exs`:
+From iex:
 
 ```elixir
 iex> Identicon.main("example")
