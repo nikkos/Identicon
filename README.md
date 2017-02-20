@@ -1,7 +1,6 @@
 # Identicon
 
-**TODO: Add description**
-Generate a identicon from a given name. 
+The example from the [Udemy course](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/learn/v4/content). Generate a identicon from a given name. 
 
 ## How to generate an identicon
 
@@ -15,8 +14,4 @@ iex> Identicon.main("example")
 
 ![alt tag](https://github.com/nikkos/Identicon/blob/master/example.png)
 
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
 
