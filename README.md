@@ -1,7 +1,7 @@
 # Identicon
 
 **TODO: Add description**
-Generate a identicon from a given name.
+Generate a identicon from a given name. 
 
 ## How to generate an identicon
 
@@ -11,7 +11,8 @@ From iex  `mix.exs`:
 iex> Identicon.main("example")
 ```
 
-The result:
+**The result:**
+
 ![alt tag](https://github.com/nikkos/Identicon/blob/master/example.png)
 
 
